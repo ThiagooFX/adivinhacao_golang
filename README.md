@@ -21,10 +21,10 @@ Um jogo interativo de adivinhação, onde os jogadores tentam adivinhar um núme
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/ThiagooFX/adivinhacao_golang.git
    
 2. Navegue até o diretório do projeto:
-   cd nome_do_repositorio
+   cd adivinhacao_golang
    
 3. Execute o jogo:
    go run main.go
