@@ -24,9 +24,8 @@ Um jogo interativo de adivinhação, onde os jogadores tentam adivinhar um núme
    git clone https://github.com/ThiagooFX/adivinhacao_golang.git
    
 2. Navegue até o diretório do projeto:
-   cd adivinhacao_golang
    
 3. Execute o jogo:
-   go run main.go
+   go run projeto1.go
 
 4. Siga as instruções na tela para jogar.
