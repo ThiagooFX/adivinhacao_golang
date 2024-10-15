@@ -2,8 +2,6 @@
 
 Um jogo interativo de adivinhação, onde os jogadores tentam adivinhar um número aleatório gerado pelo computador. Desafiador e divertido, este projeto é uma ótima forma de aprender Golang!
 
-## Badges
-
 ![Go Version](https://img.shields.io/badge/go-1.20.0-blue.svg)  
 ![GitHub Issues](https://img.shields.io/github/issues/seu_usuario/nome_do_repositorio.svg) 
 ![GitHub Stars](https://img.shields.io/github/stars/seu_usuario/nome_do_repositorio.svg) 
